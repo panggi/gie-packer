@@ -1,0 +1,5 @@
+frmMain = 0, 0, 0, 0, C, 22, 22, 563, 479, C
+Module1 = 0, 0, 0, 0, C
+cFileDialog = 0, 0, 0, 0, C
+frmHelp = 0, 0, 0, 0, C, 66, 66, 607, 523, C
+ReadOutput = 0, 0, 0, 0, C, 88, 88, 629, 545, C
